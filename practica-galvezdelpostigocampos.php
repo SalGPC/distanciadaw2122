@@ -12,7 +12,7 @@
  * @return string El saludo
  */
 function saludar($nombre) {
-  return 'Hola  amigo' . $nombre;
+  return 'Hola' . $nombre;
 }
 /**
  * Esta función suma dos números
